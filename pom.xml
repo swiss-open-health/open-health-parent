@@ -10,6 +10,7 @@
 
   <name>Swiss Open Health: Parent</name>
   <description>Parent POM for all swiss open health projects. Provides default project build configuration.</description>
+  <url>https://github.com/swiss-open-health</url>
 
   <developers>
     <developer>
