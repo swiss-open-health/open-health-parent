@@ -4,7 +4,7 @@
 
   <groupId>ch.open-health</groupId>
   <artifactId>parent</artifactId>
-  <version>1-SNAPSHOT</version>
+  <version>1</version>
 
   <packaging>pom</packaging>
 
@@ -31,7 +31,7 @@
     <connection>scm:git:git@github.com:swiss-open-health/open-health-parent.git</connection>
     <developerConnection>scm:git:git@github.com:swiss-open-health/open-health-parent.git</developerConnection>
     <url>https://github.com/swiss-open-health/open-health-parent</url>
-    <tag>HEAD</tag>
+    <tag>v1</tag>
   </scm>
 
   <distributionManagement>
